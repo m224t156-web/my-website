@@ -3,7 +3,7 @@ import { resolve } from 'path';
 
 export default defineConfig({
   build: {
-    base: '/m224t156-web/', 
+    base: '/my-website/', 
     outDir: 'docs',
     rollupOptions: {
       input: {
